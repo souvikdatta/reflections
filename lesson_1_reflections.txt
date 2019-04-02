@@ -1,2 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
-What happens when you initialize a repository? Why do you need to do it?
+What happens when you initialize a repository? Why do you need to do it
+
+//This line has been added and should show up in Merged file
